@@ -1,4 +1,4 @@
-# Austin Kedrowski Portfolio
+# Stin's Portfolio
 
 ## Description
 
